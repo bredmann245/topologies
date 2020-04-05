@@ -1,0 +1,3 @@
+nodes,topology,alpha,node-min,node-max,link-min,link-max,
+5,star,nothing,20,40,10,30
+
